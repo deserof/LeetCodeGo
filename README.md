@@ -1,0 +1,2 @@
+# LeetCodeGo
+LeetCode Tasks Go
